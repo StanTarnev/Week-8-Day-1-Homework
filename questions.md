@@ -20,7 +20,7 @@ It handles the routing for the games resource.
 
 5. What process does the the client (front-end) use to communicate with the server?
 
-
+A fetch request.
 
 6. What optional second argument does the `fetch` method take? And what is it used for in this application?
 
@@ -28,11 +28,11 @@ A request object.
 
 7. Which of the games API routes does the front-end application consume (i.e. make requests to)?
 
-
+Index, Create and Delete.
 
 8. What are we using the MongoDB Driver for?
 
-It allows callback and Promise interaction with MongoDB.
+It allows for interaction with MongoDB.
 
 ## Extension
 
